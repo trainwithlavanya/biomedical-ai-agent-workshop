@@ -24,8 +24,13 @@ SOFTWARE REQUIREMENTS
 
 The following environment was used and tested for this workshop.
 
-Visual Studio Code: 1.132.0 Python: 3.14.7 pip: 26.2.1 Ollama: 0.34.0
-Gemma 4 E4B: Local model AutoGen AgentChat: 0.7.5 NumPy: 2.5.3
+Visual Studio Code: 1.132.0 
+Python: 3.14.7 
+pip: 26.2.1 
+Ollama: 0.34.0
+Gemma 4 E4B: Local model 
+AutoGen AgentChat: 0.7.5 
+NumPy: 2.5.3
 Matplotlib: 3.11.2
 
 Using the same versions can help students reproduce the workshop
